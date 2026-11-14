@@ -1,3 +1,2 @@
 # どんびこ工房 Donbiko Studio
-# AdMob のアカウントを作ったら、AdMob の「アプリ」→「app-ads.txt」に出る1行を下に貼る
-# 例：google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-2677138516984168, DIRECT, f08c47fec0942fa0
